@@ -1,0 +1,4 @@
+repository "SeregaGame@Yukcha_corps@cloud"
+  path "/"
+    br "/main"
+    co "/main"
